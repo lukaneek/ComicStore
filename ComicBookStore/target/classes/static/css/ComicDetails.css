@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.leaveCommentCard {
+	display:flex;
+	flex-direction: column;
+	padding: 15px;
+	margin: 20px;
+}
+
+.commentsCard {
+	padding:15px;
+	margin:15px;
+	border:solid;
+}
